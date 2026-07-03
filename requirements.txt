@@ -1,0 +1,7 @@
+opencv-python
+google-genai
+python-dotenv
+Pillow
+openai
+PySide6
+pyinstaller

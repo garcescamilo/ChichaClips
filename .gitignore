@@ -1,0 +1,10 @@
+venv/
+.env
+clips/
+temp/
+dist/
+build/
+__pycache__/
+*.spec
+*.wav
+*.json

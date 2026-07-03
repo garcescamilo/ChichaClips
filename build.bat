@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data ".env;." --add-data "ui/estilo.qss;ui" app.py
